@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
 <html>
-<head></head>
-<body></body>
+<head>Wise's Site</head>
+<body>Wise's Page Content</body>
 </html>
